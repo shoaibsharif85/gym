@@ -16,7 +16,7 @@ const About = () => {
        <button className="relative inline-flex items-center ml-10 w-[150px] hover:bg-[#dd4949] border border-[4px] b p-[12px] mt-10  text-white text-2xl justify-start px-5 my-7 border border-white overflow-hidden font-bold rounded-full group">Explore Now</button>
        </div>
        <div className="my-20">
-        <img src={img}  alt="" className="md:w-[500px] md:h-[500px] rounded-md  w-[400px]  h-[400px] mb-10 mx-10 content-center"/>
+        <img src={img}  alt="" className="md:w-[500px] md:h-[500px] rounded-md  w-[300px]  h-[300px] mb-10 mx-10 content-center"/>
        </div>
      </div>
     </div>
