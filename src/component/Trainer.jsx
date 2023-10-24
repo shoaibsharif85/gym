@@ -2,7 +2,7 @@ import React from "react";
 import img1 from "../assets/img1.jpg";
 import img2 from "../assets/img2.jpg";
 import img3 from "../assets/img3.jpg";
-import { MdVerifiedUser } from 'react-icons/md'
+
 import { BsFacebook, BsInstagram, BsTwitter } from 'react-icons/bs'
 
 
