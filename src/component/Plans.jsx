@@ -1,5 +1,5 @@
 import React from "react";
-import { GrStatusGood } from 'react-icons/gr'
+import { FaRegCircleDot } from 'react-icons/fa6'
 
 const Plans = () => {
     return (
@@ -11,12 +11,12 @@ const Plans = () => {
                     <h1 className="text-center text-2xl font-bold  my-5">Trial Plan</h1>
                     <h2 className="text-center text-2xl font-bold">$ 0</h2>
 
-                    <p className="mx-5 text-smibold flex">  <GrStatusGood className="mx-5 text-yellow-600 text-4xl items-center" />Lorem ipsum dolor sit amet,
+                    <p className="mx-5 text-smibold flex">  <FaRegCircleDot className="mx-5 text-yellow-600 text-4xl items-center" />Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit.
                         Ducimus distinctio neque animi,
                         numquam  alias vitae ex?</p>
 
-                    <p className="mx-5 text-smibold my-2 flex ">  <GrStatusGood className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
+                    <p className="mx-5 text-smibold my-2 flex ">  <FaRegCircleDot className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit.
                         Ducimus distinctio neque animi,
                         numquam  alias vitae ex?</p>
@@ -26,12 +26,12 @@ const Plans = () => {
                     <h1 className="text-center text-2xl font-bold  my-5">Plus Plan</h1>
                     <h2 className="text-center text-2xl font-bold ">$ 3000</h2>
 
-                    <p className="mx-5 text-smibold flex">  <GrStatusGood className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
+                    <p className="mx-5 text-smibold flex">  <FaRegCircleDot className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit.
                         Ducimus distinctio neque animi,
                         numquam  alias vitae ex?</p>
 
-                    <p className="mx-5 text-smibold my-2 flex ">  <GrStatusGood className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
+                    <p className="mx-5 text-smibold my-2 flex ">  <FaRegCircleDot className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit.
                         Ducimus distinctio neque animi,
                         numquam  alias vitae ex?</p>
@@ -41,12 +41,12 @@ const Plans = () => {
                     <h1 className="text-center text-2xl  font-bold my-5">ProMax Plan</h1>
                     <h2 className="text-center text-2xl font-bold ">$ 5000</h2>
 
-                    <p className="mx-5 text-smibold flex">  <GrStatusGood className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
+                    <p className="mx-5 text-smibold flex">  <FaRegCircleDot className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit.
                         Ducimus distinctio neque animi,
                         numquam  alias vitae ex?</p>
 
-                    <p className="mx-5 text-smibold my-2 flex text-white ">  <GrStatusGood className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
+                    <p className="mx-5 text-smibold my-2 flex text-white ">  <FaRegCircleDot className="mx-5 text-4xl items-center" />Lorem ipsum dolor sit amet,
                         consectetur adipisicing elit.
                         Ducimus distinctio neque animi,
                         numquam  alias vitae ex?</p>
