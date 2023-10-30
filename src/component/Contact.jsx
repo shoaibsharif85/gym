@@ -46,7 +46,7 @@ const Contact = () => {
         </form>
 
         <div className=" max-w-[1240px] m-auto   my-40 ">
-          <img className=" rounded-md md:w-[500px]  md:h-[400px] w-[200px] h-[250px] " src={img} alt="img" />
+          <img className=" rounded-md md:w-[500px] mx-10 md:h-[400px] w-[200px] h-[250px] " src={img} alt="img" />
         </div>
       </div>
     </div>
