@@ -8,7 +8,7 @@ const About = () => {
      <div className="md:grid md:grid-cols-2 mx-5 text-white ">
         <div className="w-full h-full ">
 <h1 className="text-5xl font-bold mt-40 ml-10">About Us</h1>
-<p className="text-2xl mt-6 ml-10">Lorem ipsum dolor sit amet consectetur adipisicing elit
+<p className="text-1xl mt-6 ml-10">Lorem ipsum dolor sit amet consectetur adipisicing elit
     . Odio, aspernatur vero quidem illum quis
      molestiae cumque ea minus amet! Quia
       sint cumque dolorum adipisci animi
