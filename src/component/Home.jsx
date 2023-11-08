@@ -8,7 +8,7 @@ const Home = () => {
         <h1 className=" text-7xl text-white  font-bold md:text-start text-center md:w-2/3">
           Your body, your rules.
         </h1>
-<button className="relative inline-flex items-center md:ml-5 ml-20 w-[200px] hover:bg-[#dd4949] border border-[4px] b p-[10px] mt-10  text-white text-2xl justify-start mx-10  my-5 border border-white overflow-hidden font-bold rounded-full group">Cheackouct Plan</button>
+<button className="relative inline-flex items-center md:ml-5 ml-20 w-[200px] hover:bg-[#dd4949] border border-[4px] b p-[15px] mt-10  text-white text-[22px] justify-start mx-10  my-5 border border-white overflow-hidden font-bold rounded-full group">Cheackouct Plan</button>
      
       </div>
     </div>
